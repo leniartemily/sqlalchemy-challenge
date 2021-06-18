@@ -31,6 +31,7 @@ Final repo can be found under: "climate_starter.ipynb"
 
 
 *Temperature History in 2016-2017
+
 ![image](https://user-images.githubusercontent.com/81319622/122598917-80f32b80-d03b-11eb-85d1-3864df730c29.png)
 
 
