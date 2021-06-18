@@ -25,6 +25,11 @@ Final repo can be found under: "climate_starter.ipynb"
 *Precipitation in 2016-2017
 ![precipitation](https://user-images.githubusercontent.com/81319622/122598796-5012f680-d03b-11eb-9473-f1a14684ca92.png)
 
+
+
+
+
+
 *Temperature History in 2016-2017
 ![image](https://user-images.githubusercontent.com/81319622/122598917-80f32b80-d03b-11eb-85d1-3864df730c29.png)
 
