@@ -8,7 +8,7 @@ SQLAlchemy Challenge
 * [Images](#images)
 
 ## General info
-This challenge was used to retrieve data regarding the average precipitation between 2017-2016 in Hawaii.
+This challenge was used to retrieve data regarding the average precipitation between 2016-2017 in Honolulu, Hawaii.
 ## Technologies
 * Python
 * SQLAlchemy
